@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv/
+
+# Environment Variables & API Secrets
+.env
+.env.local
+.env.*
+
+# Large Ingestion Data & Local Database Indexes
+data/
+chroma_db/
+*.db
+*.sqlite
+
+# IDE/Editor specific temporary files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+tempCodeRunnerFile.py
+
+# OS generated files
+.DS_Store
+Thumbs.db

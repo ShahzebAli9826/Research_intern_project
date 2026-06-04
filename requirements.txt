@@ -1,0 +1,17 @@
+langchain
+langgraph
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langchain-huggingface
+chromadb
+pymupdf
+sentence-transformers
+rank-bm25
+arxiv
+python-dotenv
+groq
+tqdm
+pandas
+torch
+transformers
